@@ -1,8 +1,22 @@
 # Data-Science-Competition – 1st Place Solution
 
+*Quick links*  
+- [Problem statement](docs/Competition_Final task_final.pdf)  
+- [Final report](docs/task1.pdf)  
+- [Source code](src/)
+
 This repository contains our winning solution to an insurance analytics case competition organized by *BlackRock* and the *Financial Mathematics Student Organization of Corvinus University of Budapest*.
 
 Our team achieved *1st place* in the final round of the competition.
+
+## Team Composition
+
+Teams were allowed to consist of up to *three members*.  
+Our team competed with *two members*, yet successfully achieved *1st place* in the final round.
+
+*Team members:*
+- Mark Szekacs
+- Marcell Hajdú
 
 ---
 
