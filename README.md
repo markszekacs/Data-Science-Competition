@@ -1,7 +1,7 @@
 # Data-Science-Competition – 1st Place Solution
 
 *Quick links*  
-- [Problem statement](docs/Competition_Final task_final.pdf)  
+- [Problem statement](docs/task_description.pdf)  
 - [Final report](docs/task1.pdf)  
 - [Source code](src/)
 
