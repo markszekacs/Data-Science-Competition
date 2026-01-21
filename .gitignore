@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter/Quarto
+.ipynb_checkpoints/
+.quarto/
+*_files/
+*.html
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data & outputs (keep folder via .gitkeep)
+data/*.csv
+outputs/*
+!outputs/.gitkeep
