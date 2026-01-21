@@ -23,12 +23,12 @@ Our team competed with *two members*, yet successfully achieved *1st place* in t
 ## Competition Context
 
 The competition consisted of *four rounds*, with approximately *50 teams* participating in total.  
-After the preliminary rounds, the *top 5 teams* advanced to the *live final*.
+After the preliminary rounds, the *top 6 teams* advanced to the *live final*.
 
 In the final round:
 
 - teams were given a previously unseen dataset and problem statement,
-- had *2 hours under strict time pressure* to develop a complete analytical solution,
+- had *3 hours under strict time pressure* to develop a complete analytical solution,
 - and were required to *present and defend* their methodology and results immediately afterwards.
 
 The challenge therefore tested not only technical skills, but also *problem formulation, methodological judgment, and business-oriented decision making under time constraints*.
